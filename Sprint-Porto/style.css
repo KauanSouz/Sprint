@@ -1,0 +1,147 @@
+p, a, h2, h1 {
+font-family: "Jacques Francois", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+header {
+    background-color: #0085FF;
+    width: 100%;
+    height: 160px;
+}
+  
+#LogoPorto {
+    width: 295px;
+    height: 160px;
+    display: inline;
+    justify-content: left;
+    margin-right: 180px;
+    margin-left: 0px;
+}
+#Lupa {
+    width: 34px;
+    height: 34px;
+    display: inline;
+    justify-content: end;
+}
+#Usuario {
+    width: 200px;
+    height: 160px;
+    display: inline;
+    margin-left: 10px;
+}
+
+.menu {
+    font-size: 24px;
+    margin-right: 80px;
+    text-align: center;
+}
+
+#veja {
+    font-size: 24px;
+    margin-left: 50%;
+    padding-top: 40px;
+}
+
+#dive {
+    background-color: #9b9b9b44;
+    font-size: 27px;
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+#divedois {
+    background-color: #0085FF44;
+    font-size: 27px;
+    display: flex;
+    align-items: center;
+}
+
+#segunda {
+    width: 470px;
+    height: 242px;
+}
+
+#primeira {
+    width: 503px;
+    height: 270px;
+}
+
+#baixe {
+    font-size: 24px;
+    margin-left: 50%;
+}
+
+#divetres {
+    font-size: 27px;
+    display: flex;
+    align-items: center;
+}
+
+#chatbot {
+    width: 168px;
+    height: 88px;
+}
+
+footer {
+    background-color: #252323;
+    height: 115px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+h2 {
+    font-size: 24px;
+    text-align: center;
+    color: white;
+}
+
+#facebook {
+    width: 34px;
+    height: 34px;
+    margin-left: 20px;
+}
+
+#insta {
+    width: 34px;
+    height: 34px;
+    margin-left: 20px;
+}
+
+#linkdin {
+    width: 34px;
+    height: 34px;
+    margin-left: 20px;
+}
+
+#twitter {
+    width: 34px;
+    height: 34px;
+    margin-left: 20px;
+}
+
+#youtube {
+    width: 34px;
+    height: 34px;
+    margin-left: 20px;
+}
+
+#apple {
+    width: 130px;
+    height: 34px;
+}
+
+#gstore {
+    width: 110px;
+    height: 34px;
+    margin-left: 40px;
+}
+
+#logop {
+    width: 244px;
+    height: 116px;
+    margin-left: 525px;
+}
+
